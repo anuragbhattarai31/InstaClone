@@ -38,9 +38,6 @@ npm install
 npm start
 ```
 
-## 📸 Screenshots
-_(Add some screenshots of the app interface here)_
-
 ## 🚀 Deployment
 You can deploy the project using **Firebase Hosting**:
 ```sh
